@@ -1,0 +1,59 @@
+{
+  "books": [
+    {
+      "id": "1",
+      "title": "The C Programming Language",
+      "author": "Dennis Ritchie",
+      "category": "Programming",
+      "isbn": "9780131103627",
+      "status": "Issued"
+    },
+    {
+      "id": "2",
+      "title": "Introduction to Algorithms",
+      "author": "Thomas H. Cormen",
+      "category": "Computer Science",
+      "isbn": "9780262046305",
+      "status": "Available"
+    }
+  ],
+  "members": [
+    {
+      "id": "1",
+      "name": "Ravi Kumar",
+      "email": "ravi@example.com",
+      "phone": "9876543210"
+    },
+    {
+      "id": "2",
+      "name": "Sita Devi",
+      "email": "sita@example.com",
+      "phone": "9876501234"
+    },
+    {
+      "name": "Dhana Rajesh",
+      "email": "dhanarajesh.gaggala24@sasi.ac.in",
+      "phone": "9951813291",
+      "id": "3FEZnAd"
+    },
+    {
+      "name": "Sathish",
+      "email": "satist@gmail.com",
+      "phone": "9558544455",
+      "id": "h3x8JhD"
+    }
+  ],
+  "transactions": [
+    {
+      "bookId": "1",
+      "memberId": "h3x8JhD",
+      "bookTitle": "The C Programming Language",
+      "memberName": "Sathish",
+      "issueDate": "2026-10-29",
+      "dueDate": "2026-10-29",
+      "returnDate": "",
+      "status": "Issued",
+      "id": 1
+    }
+  ]
+}
